@@ -8,7 +8,7 @@ public class PerimeterOfRhombus {
         System.out.println("Enter the side of rhombus in cm  : ");
         int side = input.nextInt();
 
-        System.out.printf("perimeter of square is %d cm^2",4*side);
+        System.out.printf("perimeter of square is %d cm",4*side);
 
     }
 }

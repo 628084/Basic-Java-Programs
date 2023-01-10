@@ -10,7 +10,7 @@ public class PerimeterOfCircle {
         System.out.print("Enter radius of circle in cm : ");
         int radius = input.nextInt();
 
-        System.out.printf("area of triangle is %f cm^2",2*Math.PI*radius);
+        System.out.printf("area of triangle is %f cm",2*Math.PI*radius);
 
     }
 }

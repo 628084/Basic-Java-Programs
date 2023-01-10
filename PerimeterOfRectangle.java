@@ -10,6 +10,6 @@ public class PerimeterOfRectangle {
         System.out.print("Enter breadth in cm : ");
         int breadth = input.nextInt();
 
-        System.out.printf("perimeter of parallelogram is %d cm^2",2*(length+breadth));
+        System.out.printf("perimeter of parallelogram is %d cm",2*(length+breadth));
     }
 }

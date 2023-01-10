@@ -14,8 +14,7 @@ public class VolumeOfCone {
         System.out.print("Enter height of cone in cm : ");
         int height = input.nextInt();
 
-        System.out.printf("volume of cone %f",0.3333*(Math.PI)*(radius*radius)*height);
-
+        System.out.printf("volume of cone %f cm^3",0.3333*(Math.PI)*(radius*radius)*height);
 
 
     }

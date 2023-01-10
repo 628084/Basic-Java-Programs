@@ -5,9 +5,9 @@ public class AreaOfCircle {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter radius of circle : ");
+        System.out.print("Enter radius of circle in cm : ");
         int radius = input.nextInt();
 
-        System.out.printf("area of circle is %f",Math.PI*radius*radius);
+        System.out.printf("area of circle is %f in cm^2",Math.PI*radius*radius);
     }
 }
